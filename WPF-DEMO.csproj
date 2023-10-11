@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\YCalendar-WPF\YCalendar-WPF.csproj" />
+    <ProjectReference Include="..\YCalendar\YCalendar-WPF.csproj" />
   </ItemGroup>
 
 </Project>

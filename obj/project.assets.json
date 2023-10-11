@@ -70,8 +70,8 @@
     },
     "YCalendar-WPF/1.0.0": {
       "type": "project",
-      "path": "../YCalendar-WPF/YCalendar-WPF.csproj",
-      "msbuildProject": "../YCalendar-WPF/YCalendar-WPF.csproj"
+      "path": "../YCalendar/YCalendar-WPF.csproj",
+      "msbuildProject": "../YCalendar/YCalendar-WPF.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -112,8 +112,8 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
-            "D:\\Développement\\C#\\YCalendar-WPF\\YCalendar-WPF.csproj": {
-              "projectPath": "D:\\Développement\\C#\\YCalendar-WPF\\YCalendar-WPF.csproj"
+            "D:\\Développement\\C#\\YCalendar\\YCalendar-WPF.csproj": {
+              "projectPath": "D:\\Développement\\C#\\YCalendar\\YCalendar-WPF.csproj"
             }
           }
         }

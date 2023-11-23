@@ -1,11 +1,11 @@
 # WPF-DEMO
 
-Il faut récupérer la DLL de YCalendar puis aller sur dépendances -> Ajouter une référence de projet et enfin cliqué sur YCalendar-WPF
+Il faut rÃ©cupÃ©rer la DLL de YCalendar puis aller sur dÃ©pendances -> Ajouter une rÃ©fÃ©rence de projet et enfin cliquÃ© sur YCalendar-WPF
 
-Pour l'utilisé il faut ajouter dans la vue :  xmlns:YC="clr-namespace:YCalendar_WPF.Views;assembly=YCalendar-WPF"
+Pour l'utilisÃ© il faut ajouter dans la vue :  xmlns:YC="clr-namespace:YCalendar_WPF.Views;assembly=YCalendar-WPF"
 et pour l'utiliser dans la vue il faut simplement faire <YC:YCalendarControl />
 
-Vue = une fenêtre window dans lequel il va être appelé
+Vue = une fenÃªtre window dans lequel il va Ãªtre appelÃ©
 
 Exemple : 
 
@@ -23,3 +23,7 @@ Exemple :
         <YC:YCalendarControl/>
     </Grid>
 </Window>
+
+# Release
+
+Lien vers la release : https://github.com/Dracobastien55/DemoAppCalendar/releases

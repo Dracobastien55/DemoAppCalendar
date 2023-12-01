@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yh/6GS3QNu+nTGCfdb4wc2l448YC3WNtG6kVZ6vh6FhjPiW3aF3frYQQlr8v8JCfsxxrOr01yWVRaWB1AhC+cQ==",
+  "success": true,
+  "projectFilePath": "D:\\Développement\\C#\\DemoAppCalendar\\WPF-DEMO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bastien\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.1\\communitytoolkit.mvvm.8.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
